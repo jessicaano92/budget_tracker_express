@@ -4,6 +4,16 @@
 
 This budget tracker provides the user a way to keep track of their finances while traveling. As we all know, while traveling it can be very difficult to access the internet at certain times. This application allows the user to track their finances on or offline. They are able to type in what type of transaction occurred along with the amount. They can then choose to add or subtract the funds. It then will display the transactions on a graph to the user. 
 
+## Installation
+
+Express, Mongoose, Morgan
+
+
+## Tests
+
+None
+
+
 ## Usage
 
 <img src="https://github.com/jessicaano92/budget_tracker_express/blob/main/public/assets/budget%20tracker.png">
