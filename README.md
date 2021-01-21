@@ -6,7 +6,7 @@ This budget tracker provides the user a way to keep track of their finances whil
 
 ## Installation
 
-Express, Mongoose, Morgan
+npm i
 
 
 ## Tests
