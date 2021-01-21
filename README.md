@@ -13,6 +13,9 @@ npm i
 
 None
 
+## Technology Used
+Express, Morgan
+
 
 ## Usage
 
