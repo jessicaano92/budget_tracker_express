@@ -14,7 +14,7 @@ npm i
 None
 
 ## Technology Used
-Express, Morgan
+Express, Mongoose, Morgan
 
 
 ## Usage
